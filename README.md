@@ -89,6 +89,7 @@ arvore-rubro-negra/
 ├── arvore_rubro_negra.py       # Implementação da árvore
 ├── processador_operacoes.py    # Processamento de comandos
 ├── testes.py                   # Testes unitários básicos
+├── referencias/                # Pasta com referências de estudo
 ├── exemplo.txt         # Arquivo de exemplo
 └── README.md                   # Esta documentação
 ```
