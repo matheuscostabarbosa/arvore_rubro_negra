@@ -12,7 +12,7 @@ Siga os passos abaixo:
 Clone o repositório
 
 ```bash
-git clone https://github.com/matheuscostabarbosa/arvore_rubro_negra.git
+git clone https://github.com/matheuscostabarbosa/arvore_rubro_negra
 ```
 
 
